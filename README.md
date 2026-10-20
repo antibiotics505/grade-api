@@ -1,3 +1,5 @@
+> Personal implementation and offline validation: see [LAB5_PROGRESS.md](LAB5_PROGRESS.md). Live API/team activities are not claimed complete.
+
 # Lab 5: Using APIs in Java
 
 ## Overview:
