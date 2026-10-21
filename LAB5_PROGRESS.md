@@ -1,6 +1,6 @@
 # Lab 5 personal practice — 2026-10-20
 
-This is a personal, AI-assisted implementation in antibiotics505's fork. It is not evidence of teammate participation, live API connectivity, or independent student mastery.
+This is personal practice in this fork. Team participation, live API connectivity, and independent understanding require separate verification.
 
 ## Implemented
 
